@@ -1,4 +1,4 @@
- 📌 Sistem Arsip Data Akta Kelahiran Berbasis Web
+📌 Sistem Arsip Data Akta Kelahiran Berbasis Web
 
 **Dinas Kependudukan dan Pencatatan Sipil**
 
@@ -139,6 +139,7 @@ Admin dapat menghapus data arsip akta kelahiran yang tidak diperlukan.
 ### 6. Logout
 
 Admin dapat keluar dari sistem dengan menekan tombol **Logout**.
+
 
 ## 🔒 Keamanan Sistem
 * Sistem menggunakan **session login** untuk membatasi akses pengguna.
